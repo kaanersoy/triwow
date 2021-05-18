@@ -11,6 +11,7 @@ as wrong.
 - React
 - Redux
 - Trivia Open API -> [some link goes there](https://google.com)
+- Google Firebase Firestore
 - ...
 
 ## 📦 Installation
