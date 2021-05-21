@@ -1,4 +1,4 @@
-# Triwow (Quizz App)
+# Triwow (Quizz App) # (Firebase trial expired) 
 
 A quizz game app maded with React.
 You will get 5 different questions and the time for each one is 15 secs. Must choose
